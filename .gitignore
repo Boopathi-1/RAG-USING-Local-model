@@ -1,0 +1,20 @@
+@"
+.env
+.env.*
+!.env.example
+
+rag_env/
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+
+.pytest_cache/
+.mypy_cache/
+.ipynb_checkpoints/
+
+data/
+"@ | Add-Content .gitignore
+rag_export.txt
+
+rag_export.txt

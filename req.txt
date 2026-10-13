@@ -1,0 +1,10 @@
+langchain
+langchain-openai
+langchain-chroma
+chromadb
+openai
+fastapi
+uvicorn
+rank-bm25
+sentence-transformers
+python-dotenv
